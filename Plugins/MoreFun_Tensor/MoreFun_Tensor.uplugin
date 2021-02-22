@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MoreFun_Tensor",
+	"Description": "Tensor Inference for UE",
+	"Category": "Other",
+	"CreatedBy": "RuochenLiu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MoreFun_Tensor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
