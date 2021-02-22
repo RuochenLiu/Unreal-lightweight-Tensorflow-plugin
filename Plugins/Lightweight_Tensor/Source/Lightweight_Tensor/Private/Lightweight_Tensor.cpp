@@ -1,15 +1,15 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "MoreFun_Tensor.h"
+#include "Lightweight_Tensor.h"
 
-#define LOCTEXT_NAMESPACE "FMoreFun_TensorModule"
+#define LOCTEXT_NAMESPACE "FLightweight_TensorModule"
 
-void FMoreFun_TensorModule::StartupModule()
+void FLightweight_TensorModule::StartupModule()
 {
 	// This code will execute after your module is loaded into memory; the exact timing is specified in the .uplugin file per-module
 }
 
-void FMoreFun_TensorModule::ShutdownModule()
+void FLightweight_TensorModule::ShutdownModule()
 {
 	// This function may be called during shutdown to clean up your module.  For modules that support dynamic reloading,
 	// we call this function before unloading the module.
@@ -17,4 +17,4 @@ void FMoreFun_TensorModule::ShutdownModule()
 
 #undef LOCTEXT_NAMESPACE
 	
-IMPLEMENT_MODULE(FMoreFun_TensorModule, MoreFun_Tensor)
+IMPLEMENT_MODULE(FLightweight_TensorModule, Lightweight_Tensor)

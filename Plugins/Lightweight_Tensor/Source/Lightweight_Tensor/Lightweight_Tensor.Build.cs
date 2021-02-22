@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class MoreFun_Tensor : ModuleRules
+public class Lightweight_Tensor : ModuleRules
 {
-	public MoreFun_Tensor(ReadOnlyTargetRules Target) : base(Target)
+	public Lightweight_Tensor(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 

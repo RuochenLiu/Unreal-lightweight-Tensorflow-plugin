@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "MoreFun_Tensor",
+	"FriendlyName": "Lightweight_Tensor",
 	"Description": "Tensor Inference for UE",
 	"Category": "Other",
 	"CreatedBy": "RuochenLiu",
@@ -16,7 +16,7 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "MoreFun_Tensor",
+			"Name": "Lightweight_Tensor",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

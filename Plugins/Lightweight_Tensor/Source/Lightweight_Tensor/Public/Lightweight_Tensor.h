@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class MOREFUN_TENSOR_API FMoreFun_TensorModule : public IModuleInterface
+class LIGHTWEIGHT_TENSOR_API FLightweight_TensorModule : public IModuleInterface
 {
 public:
 	void* DLLHandler;

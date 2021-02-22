@@ -9,7 +9,7 @@
 #include "TFAgent.generated.h"
 
 UCLASS(hideCategories = (Rendering, Actor, LOD, Cooking, Transform, Input, Collision, Replication), BlueprintType)
-class MOREFUN_TENSOR_API ATFAgent : public AActor
+class LIGHTWEIGHT_TENSOR_API ATFAgent : public AActor
 {
 	GENERATED_BODY()
 

@@ -8,7 +8,7 @@ public class WhiteBoard : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "MoreFun_Tensor" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Lightweight_Tensor" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
