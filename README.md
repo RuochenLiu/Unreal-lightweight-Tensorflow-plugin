@@ -14,7 +14,8 @@ This demo is derived from [WhiteBoard](https://forums.unrealengine.com/community
 * CPU-Only API
 
 ### Usage
-* [Download](https://storage.googleapis.com/tensorflow/libtensorflow/libtensorflow-cpu-windows-x86_64-2.4.0.zip) Tensorflow C API. Move tensorflow.dll and tensorflow.lib to ./Plugins/Lightweight_Tensor/Binaries/Win64/
+* [Download](https://storage.googleapis.com/tensorflow/libtensorflow/libtensorflow-cpu-windows-x86_64-2.4.0.zip) Tensorflow C API. 
+* Move tensorflow.dll and tensorflow.lib to **./Plugins/Lightweight_Tensor/Binaries/Win64/**
 
 * Train your Tensorflow model and save PB model
 ```python
