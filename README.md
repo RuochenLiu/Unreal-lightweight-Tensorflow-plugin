@@ -32,7 +32,7 @@ with tf.gfile.GFile('../output/trained_model/pb_only/cat_dog.pb', "wb") as f:
 * Store pre-trained PB model at '{ProjectDir}/Content/TensorFlow/'
 
 * Add TFAgent Actor to your level and setup properties  
-<img src="./Content/Screenshot.png"/>
+<img src="./Content/screenshot.png"/>
 
 * Prepare network inputs from UE data, the same as inputs you use to train the model
 ```CPP
