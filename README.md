@@ -76,6 +76,4 @@ TFActor->Inference(img_data, out);
 ```
 
 ### Sample
-<video width="320" height="240" controls>
-  <source src="./GitSample/sample.mp4">
-</video>
+<img src="./GitSample/sample.gif"/>
