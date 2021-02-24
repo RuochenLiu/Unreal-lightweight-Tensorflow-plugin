@@ -1,7 +1,7 @@
 # Unreal-lightweight-Tensorflow-plugin
 UE4 Tensorflow plugin based on [TensorFlow C API](https://www.tensorflow.org/install/lang_c) and [CPPFlow](https://github.com/serizba/cppflow). More lighweight than [tensorflow-ue4](https://github.com/getnamo/tensorflow-ue4) but with limits.
 
-This demo is derived from [WhiteBoard](https://forums.unrealengine.com/community/released-projects/13825-whiteboard-blueprint).
+This demo is derived from [WhiteBoard](https://forums.unrealengine.com/community/released-projects/13825-whiteboard-blueprint) by Divinitize.
 
 ### Features
 
